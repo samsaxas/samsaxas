@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samsaxas/samsaxas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Samriddhi Saxena
 
-Here are some ideas to get you started:
+### 🎓 Data Science Undergraduate | 🤖 Machine Learning | ✨ Generative AI | 📊 Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building data-driven and AI-powered solutions using **Python, SQL, Machine Learning, Generative AI, and Data Visualization.**
+
+<p>
+  <a href="mailto:samriddhisaxena3101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+Name        : Samriddhi Saxena
+Education   : B.E. Computer Science & Engineering (Data Science)
+University  : Visvesvaraya Technological University (VTU)
+Location    : Bengaluru, India
+Focus       : Data Science • Machine Learning • Generative AI • RAG
