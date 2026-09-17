@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samriddhi Saxena
 
-### 🤖 Generative AI & ML Engineer | 📊 Data Science | 🐍 Python | 🔎 RAG
+### 🤖 Generative AI & ML Engineer | 📊 Data Science Graduate | 🐍 Python | 🔎 RAG
 
 Generative AI and ML Engineer (Fresher) with hands-on experience across the ML lifecycle —  
 **data analysis, feature engineering, model development, Generative AI, RAG, and application deployment.**
@@ -123,191 +123,8 @@ Generative AI and ML Engineer (Fresher) with hands-on experience across the ML l
 
 ---
 
-# 🚀 Featured Projects
 
-## 🔎 RAG-Based Multi-Document Research Analyst
-
-A Retrieval-Augmented Generation system for answering questions across multiple PDF documents while grounding responses in retrieved context.
-
-**Tech Stack:**  
-`Python` `LangChain` `FAISS` `HuggingFace Embeddings` `Gemini API` `Streamlit`
-
-### Key Features
-
-- 📄 Multi-document PDF processing
-- ✂️ Document parsing and chunking
-- 🔢 HuggingFace-based embeddings
-- 🔎 Semantic similarity search
-- 🗂️ FAISS vector database
-- 🤖 Gemini-powered answer generation
-- 📚 Citation generation
-- 🧪 Retrieval evaluation using labeled Q&A
-- 🛡️ Context-only answer guardrail
-
-### Results
-
-- **89% citation accuracy**
-- **85% reduction in hallucinations**
-- Retrieval evaluation layer for measuring answer quality
-
-🔗 **[View Project →](https://github.com/samsaxas/Multi-Document-RAG-based-Research-Assistant)**
-
----
-
-## 🤖 Website Chatbot & Lead-Qualification Agent
-
-An agentic chatbot designed to answer website FAQs through retrieval while autonomously asking qualifying questions to assess lead readiness.
-
-**Tech Stack:**  
-`Python` `LangChain` `FAISS` `Gemini API` `Agentic AI`
-
-### Key Features
-
-- 💬 Website FAQ chatbot
-- 🔎 Knowledge-base retrieval
-- 🧠 Context-aware conversations
-- 🛠️ Tool-based routing
-- 🎯 Lead qualification
-- 📊 Conversational lead scoring
-
-🔗 **[View Project →](https://github.com/samsaxas/Website-Chatbot-Lead-Agent)**
-
----
-
-## 🚦 Integrated Traffic Management System Using AI
-
-AI-based traffic management system using computer vision for real-time vehicle detection, lane-wise traffic analysis, and dynamic signal control.
-
-**Tech Stack:**  
-`Python` `OpenCV` `YOLO` `Computer Vision`
-
-### Key Features
-
-- 🚗 Real-time vehicle detection
-- 🛣️ Lane-wise vehicle counting
-- 📊 Traffic-density analysis
-- 🚦 Dynamic traffic signal allocation
-- 🔌 Hardware-integrated signal control
-
-### Results
-
-- **92% vehicle detection accuracy**
-- Dynamic signal allocation based on detected vehicle density
-
-🔗 **[View Project →](https://github.com/samsaxas/Integrated-Traffic-Management-System-Using-AI)**
-
----
-
-## 📈 Customer Churn Prediction
-
-Machine Learning project focused on predicting customer churn using multiple classification algorithms with model comparison and explainability.
-
-**Tech Stack:**  
-`Python` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Streamlit`
-
-### Key Features
-
-- 🔍 Exploratory Data Analysis
-- 🧹 Missing-value and outlier handling
-- ⚙️ Feature engineering
-- 🤖 Logistic Regression
-- 🌲 Random Forest
-- 🚀 XGBoost
-- 📊 Accuracy, Precision, Recall & F1 comparison
-- 🧠 SHAP-based model explainability
-- 🌐 Streamlit deployment
-
-🔗 **[View Project →](#)**
-
----
-
-## 🛒 E-Commerce Sales & Delivery Performance
-
-Data analysis project using the Olist Brazilian E-Commerce dataset to analyze sales, delivery performance, customer behavior, and review patterns.
-
-**Tech Stack:**  
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-### Key Features
-
-- 📊 Exploratory Data Analysis
-- 🧹 Data cleaning and preprocessing
-- 🔎 Outlier detection
-- 📦 Sales analysis
-- 🚚 Delivery performance analysis
-- 👥 Customer behavior analysis
-- ⭐ Review-score analysis
-- 📈 Univariate and multivariate visualization
-
-🔗 **[View Project →](#)**
-
----
-
-# 🎓 Education
-
-### AMC Engineering College — VTU
-
-**Bachelor of Engineering in Computer Science & Engineering — Data Science**
-
-📅 December 2022 – August 2026  
-📊 **CGPA: 8.24 / 10**
-
----
-
-### St. Anselm's Sr. Sec. School — Jaipur, Rajasthan
-
-**Senior Secondary School**
-
-📅 June 2021 – April 2022  
-📊 **71%**
-
----
-
-### St. Anselm's Sr. Sec. School — Jaipur, Rajasthan
-
-**Secondary School**
-
-📅 June 2019 – April 2020  
-📊 **84.2%**
-
----
-
-# 📜 Certifications
-
-- 🎓 **Foundations of Data Science — Google**
-- 📊 **Data Analyst Training**
-- 📈 **Power BI Certification**
-
----
-
-# 🏆 Achievements
-
-- 🥇 **Winner — Hacktopus Hackathon (2025)**
-- 🛰️ **ISRO-BAH Participant (2025)**
-
----
-
-# 🧠 Areas of Interest
-
-```text
-Machine Learning
-      ↓
-Data Analysis & Predictive Analytics
-      ↓
-Generative AI
-      ↓
-LLMs & Embeddings
-      ↓
-Retrieval-Augmented Generation
-      ↓
-Agentic AI
-      ↓
-AI-Powered Applications
-```
-
----
-
-# 📚 Currently Learning
+# 📚 Currently Focusing On
 
 - Advanced Machine Learning
 - Deep Learning
@@ -325,9 +142,9 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samsaxas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samsaxas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsaxas&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsaxas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -337,7 +154,7 @@ AI-Powered Applications
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samsaxas&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=samsaxas&theme=tokyonight&hide_border=true" />
 
 </div>
 
