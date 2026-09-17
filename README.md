@@ -138,28 +138,6 @@ Generative AI and ML Engineer (Fresher) with hands-on experience across the ML l
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samsaxas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsaxas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=samsaxas&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
