@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samriddhi Saxena
 
-### 🎓 Data Science Undergraduate | 🤖 Machine Learning | ✨ Generative AI | 📊 Data Analytics
+### 🎓 Data Science Graduate | 🤖 Machine Learning | ✨ Generative AI | 📊 Data Analytics
 
 Building data-driven and AI-powered solutions using **Python, SQL, Machine Learning, Generative AI, and Data Visualization.**
 
